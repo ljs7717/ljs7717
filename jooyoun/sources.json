@@ -1,0 +1,27 @@
+{
+  "design": "https://ljs7717.github.io/cnu/",
+  "content": "https://jslim7717.dothome.co.kr/",
+  "imageUrls": [
+    "https://jslim7717.dothome.co.kr/uploads/jooyoun/jylogo.png",
+    "https://jslim7717.dothome.co.kr/uploads/tpl/imgage_v6.jpg",
+    "https://jslim7717.dothome.co.kr/uploads/tpl/main_intro.png",
+    "https://jslim7717.dothome.co.kr/uploads/tpl/fabio-lucas-_eYDuLSjkpw-unsplash.jpg",
+    "https://jslim7717.dothome.co.kr/uploads/tpl/m_business_1.jpg",
+    "https://jslim7717.dothome.co.kr/uploads/tpl/m_business_2.jpg",
+    "https://jslim7717.dothome.co.kr/uploads/tpl/m_business_3.jpg",
+    "https://jslim7717.dothome.co.kr/uploads/tpl/m_1.jpg",
+    "https://jslim7717.dothome.co.kr/uploads/tpl/m_visual_1.jpg",
+    "https://jslim7717.dothome.co.kr/uploads/tpl/m_business_1A.jpg",
+    "https://jslim7717.dothome.co.kr/static/img/editor/sample/sns-2-01.png",
+    "https://jslim7717.dothome.co.kr/static/img/editor/sample/sns-2-08.png",
+    "https://jslim7717.dothome.co.kr/static/img/editor/sample/sns-2-03.png"
+  ],
+  "video": "https://www.youtube.com/embed/M0I6hrmpm3k",
+  "externalPages": {
+    "company": "https://jslim7717.dothome.co.kr/aboutF",
+    "business": "https://jslim7717.dothome.co.kr/businessF",
+    "recruit": "https://jslim7717.dothome.co.kr/recruitF",
+    "news": "https://jslim7717.dothome.co.kr/newsF"
+  },
+  "designAttribution": "Moderna v4.8.0 by BootstrapMade"
+}
